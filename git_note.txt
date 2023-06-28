@@ -1,0 +1,23 @@
+git config --global user.name "Min ThuKha"
+
+git config --global user.name => Min ThuKha
+
+git config --global user.email "minthukha166@gmail.com"
+
+git config --global user.email => minthukha166@gmail.com
+
+-----------------------------------------------------------
+
+#commit
+
+1. id
+2. date / time
+3. author name / email
+4. title
+
+- git init
+- git status (red / green / nothing to commit)
+	#red =>	  - git add .
+		  - git commit -m "commit title"
+	#green => - git commit -m "commit title"
+	#nothing => True
